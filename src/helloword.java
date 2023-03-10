@@ -6,10 +6,12 @@ import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
  */
 public class helloword {
     public static void main(String[] args) {
-        System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println("asdasdasd");
+
+
+        System.out.println("hot-fix");
+        System.out.println("hot-fix");
+        System.out.println("hot-fix");
+        System.out.println("hot-fix");
+        System.out.println("hot-fix");
     }
 }
